@@ -1,0 +1,32 @@
+a,
+#footer .footer-bottom, 
+.single-table.featured .btn.btn-primary, 
+.contact-info ul li a:hover, 
+#footer .footer-bottom a  {
+  color: #00008B;
+}
+a,
+.caption h1 span{
+    color: #ADD8E6;
+}
+
+.btn.btn-primary:hover,
+.btn-submit:hover {
+  background-color: #6495ED;
+}
+
+
+.main-nav, 
+.single-table.featured, 
+.btn.btn-primary,
+.btn-loadmore:hover, 
+.btn-submit,
+#footer, 
+.caption .btn-start:hover, 
+.left-control:hover, 
+.right-control:hover {
+  background-color:#ADD8E6;
+}
+
+
+
